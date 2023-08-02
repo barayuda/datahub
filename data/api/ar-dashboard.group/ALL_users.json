@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "users",
+  "method": "ALL",
+  "projectUniqId": "aa420107-5e0d-4bd1-ba17-ac1fa2d557ca",
+  "description": "Dummy Users",
+  "currentScene": "users",
+  "proxyConfig": {},
+  "uniqId": "b99d0007-20ad-4141-bcb3-396dab18e42a",
+  "groupUniqId": "83421b9c-8235-4a4a-9936-13a95171caaf"
+}
