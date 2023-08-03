@@ -22,4 +22,4 @@ const App = () => {
   );
 };
 
-ReactDOM.render(<App />, document.getElementById('eui-app-container'));
+ReactDOM.render(<App />, document.getElementById('datahub-container'));
