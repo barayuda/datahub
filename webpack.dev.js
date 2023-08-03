@@ -17,7 +17,7 @@ const datahubConfig = {
     end: false
   },
   // eslint-disable-next-line no-undef
-  database: path.join(__dirname, '.macaca-datahub'),
+  database: path.join(__dirname, '.macaca-datahub.sqlite'),
   proxy: {
     '/api': {
       hub: 'api',
