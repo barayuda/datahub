@@ -1,0 +1,114 @@
+{
+  "sceneName": "Default",
+  "data": {
+    "statusCode": 200,
+    "error": false,
+    "message": "findAll",
+    "data": [
+      {
+        "id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "object_name": "dendy",
+        "rarity_mode": "S",
+        "file": null,
+        "preview": null
+      },
+      {
+        "id": "48992e8f-e1aa-48db-bc0c-5236e3c9f984",
+        "object_name": "Yoyo Object",
+        "rarity_mode": "A",
+        "file": null,
+        "preview": null
+      },
+      {
+        "id": "759c09eb-4443-46cd-8566-e279a6198a77",
+        "object_name": "Yoyo Object",
+        "rarity_mode": "A",
+        "file": null,
+        "preview": null
+      },
+      {
+        "id": "eae07454-b80c-4c08-aacd-15f2c6545eef",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691465914880-34607250.pdf",
+        "preview": null
+      },
+      {
+        "id": "47bb20d2-6ff5-4eb9-91d1-e344b3d9b57a",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691466023084-828787129.pdf",
+        "preview": null
+      },
+      {
+        "id": "efafea28-e9a6-43d6-8de6-8094117e34ed",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691466082382-939788008.pdf",
+        "preview": null
+      },
+      {
+        "id": "96e77aff-859a-4673-ae23-136ae76a8f87",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691466058358-428662390.pdf",
+        "preview": null
+      },
+      {
+        "id": "6c10c20a-b1ff-4734-a4e1-4f37cb9eb863",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691471033567-703260633.obj",
+        "preview": "preview-1691471033577-794124514.jpeg"
+      },
+      {
+        "id": "419fceac-45d9-4881-b5d1-97b04a46c437",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691481150603-395065316.obj",
+        "preview": "preview-1691481150638-971223559.jpg"
+      },
+      {
+        "id": "dca0f237-3874-43d9-a5d8-797f8ac7518b",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691481372834-607280083.obj",
+        "preview": "preview-1691481374679-586451028.jpg"
+      },
+      {
+        "id": "174028f2-5b85-498d-b98b-bc7f74fbb54c",
+        "object_name": "PakYoyo",
+        "rarity_mode": "A",
+        "file": "file-1691481688736-362038748.obj",
+        "preview": "preview-1691481754719-569993745.png"
+      },
+      {
+        "id": "8944b510-8c6a-4d07-8505-a8df2b6714e0",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691483570830-73344811.obj",
+        "preview": "preview-1691483570920-691441063.jpg"
+      },
+      {
+        "id": "a1082361-8c3b-4bbc-8623-16d8ff9d316f",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691483635851-637340817.obj",
+        "preview": "preview-1691483635861-308507012.jpg"
+      },
+      {
+        "id": "67e2b4b3-79f8-42c0-ad4a-46edb9f2900b",
+        "object_name": "Bonge Object",
+        "rarity_mode": "A",
+        "file": "file-1691483828454-717480377.obj",
+        "preview": "preview-1691483828455-794689262.jpg"
+      }
+    ]
+  },
+  "interfaceUniqId": "0e82a39c-a757-47f7-888b-bd2f04ef7990",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "6cde92c1-fb9c-4c5c-99ee-5954e2941ce1",
+  "format": "json"
+}

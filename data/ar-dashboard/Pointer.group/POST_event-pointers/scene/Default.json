@@ -1,0 +1,27 @@
+{
+  "sceneName": "Default",
+  "data": {
+    "statusCode": 201,
+    "error": false,
+    "message": "created",
+    "data": {
+      "id": "aaaab89f-038e-4b8c-ba2b-b5d1457acd77",
+      "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+      "event_id": "6c07d124-ec7c-4b5a-8570-873fb3c4a382",
+      "maximum_user": 5,
+      "type": "point",
+      "point": 10000,
+      "counting": 0,
+      "longitude": "106.8292073",
+      "latitude": "-6.2425327",
+      "createdAt": "2023-08-09T07:51:24.688Z",
+      "updatedAt": "2023-08-09T07:51:24.688Z"
+    }
+  },
+  "interfaceUniqId": "a3ec413d-0fec-4517-933a-56ca3f2fd348",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "09ff8825-756a-4124-9bcc-de5f4978fea1",
+  "format": "json"
+}

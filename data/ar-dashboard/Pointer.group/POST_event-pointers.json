@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "event-pointers",
+  "method": "POST",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Create Event Pointer",
+  "currentScene": "Default",
+  "proxyConfig": {},
+  "uniqId": "a3ec413d-0fec-4517-933a-56ca3f2fd348",
+  "groupUniqId": "7f638ca8-4ac3-49ae-b728-22960ab0c893"
+}

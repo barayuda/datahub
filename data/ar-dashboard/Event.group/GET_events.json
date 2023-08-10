@@ -1,0 +1,13 @@
+{
+  "protocol": "http",
+  "pathname": "events",
+  "method": "GET",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Manage Events",
+  "currentScene": "Default",
+  "proxyConfig": {
+    "enabled": false
+  },
+  "uniqId": "de1f2fa7-ce82-46cd-ae5c-19755f9f7ed5",
+  "groupUniqId": "3d956b49-89e4-4c67-8e21-d421e64c90a4"
+}

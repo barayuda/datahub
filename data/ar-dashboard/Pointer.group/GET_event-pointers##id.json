@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "event-pointers/:id",
+  "method": "GET",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Get Event Pointer by ID",
+  "currentScene": "ea3e05f1-db6b-4a99-86e6-b4437d5f88dd",
+  "proxyConfig": {},
+  "uniqId": "1e1c266c-31a3-4395-84f2-d12f20093d18",
+  "groupUniqId": "7f638ca8-4ac3-49ae-b728-22960ab0c893"
+}

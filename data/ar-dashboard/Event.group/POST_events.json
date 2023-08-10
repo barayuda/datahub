@@ -1,0 +1,13 @@
+{
+  "protocol": "http",
+  "pathname": "events",
+  "method": "POST",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Create New Event",
+  "currentScene": "Default",
+  "proxyConfig": {
+    "enabled": false
+  },
+  "uniqId": "719bdbc8-4037-4f93-9f03-25397d4c11fa",
+  "groupUniqId": "3d956b49-89e4-4c67-8e21-d421e64c90a4"
+}

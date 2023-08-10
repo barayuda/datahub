@@ -1,0 +1,26 @@
+{
+  "sceneName": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+  "data": {
+    "status": "success",
+    "statusCode": 200,
+    "message": "findOne",
+    "data": {
+      "id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+      "object_name": "dendy",
+      "altitude_mode": "groundRelative",
+      "altitude": 0,
+      "movement_smoothing": "1",
+      "rarity_mode": "S",
+      "file": null,
+      "preview": null,
+      "createdAt": "2023-08-03T11:49:44.000Z",
+      "updatedAt": "2023-08-03T11:49:47.000Z"
+    }
+  },
+  "interfaceUniqId": "570b4dab-845b-42f3-b07c-d1f400a868fd",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "aa238f51-f1b0-4581-830f-be9d386526a8",
+  "format": "json"
+}

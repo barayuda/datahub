@@ -1,0 +1,54 @@
+{
+  "type": "request",
+  "data": {
+    "schemaData": {
+      "type": "object",
+      "properties": {
+        "object_id": {
+          "type": "string"
+        },
+        "event_name": {
+          "type": "string"
+        },
+        "event_start_time": {
+          "type": "string"
+        },
+        "event_end_time": {
+          "type": "string"
+        },
+        "event_location": {
+          "type": "string"
+        },
+        "event_description": {
+          "type": "string"
+        },
+        "event_range": {
+          "type": "integer"
+        },
+        "event_longitude": {
+          "type": "string"
+        },
+        "event_latitude": {
+          "type": "string"
+        },
+        "status": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "object_id",
+        "event_name",
+        "event_start_time",
+        "event_end_time",
+        "event_location",
+        "event_description",
+        "event_range",
+        "event_longitude",
+        "event_latitude",
+        "status"
+      ]
+    }
+  },
+  "interfaceUniqId": "a3ec413d-0fec-4517-933a-56ca3f2fd348",
+  "uniqId": "ad701130-46be-4437-a6b5-8509a8ad0ed9"
+}

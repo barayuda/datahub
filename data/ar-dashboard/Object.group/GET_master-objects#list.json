@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "master-objects/list",
+  "method": "GET",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Get List All Objects (for Select List)",
+  "currentScene": "Default",
+  "proxyConfig": {},
+  "uniqId": "0e82a39c-a757-47f7-888b-bd2f04ef7990",
+  "groupUniqId": "9a4c45c3-bae3-4ef0-8115-c1fe982703a2"
+}

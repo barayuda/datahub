@@ -1,0 +1,191 @@
+{
+  "sceneName": "GET_ALL",
+  "data": {
+    "statusCode": 200,
+    "error": false,
+    "message": "findAll",
+    "data": [
+      {
+        "id": "174028f2-5b85-498d-b98b-bc7f74fbb54c",
+        "object_name": "PakYoyo",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691481688736-362038748.obj",
+        "preview": "preview-1691481754719-569993745.png",
+        "createdAt": "2023-08-08T08:02:35.090Z",
+        "updatedAt": "2023-08-08T08:02:35.090Z"
+      },
+      {
+        "id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "object_name": "dendy",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "1",
+        "rarity_mode": "S",
+        "file": null,
+        "preview": null,
+        "createdAt": "2023-08-03T11:49:44.000Z",
+        "updatedAt": "2023-08-03T11:49:47.000Z"
+      },
+      {
+        "id": "419fceac-45d9-4881-b5d1-97b04a46c437",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691481150603-395065316.obj",
+        "preview": "preview-1691481150638-971223559.jpg",
+        "createdAt": "2023-08-08T07:52:31.285Z",
+        "updatedAt": "2023-08-08T07:52:31.285Z"
+      },
+      {
+        "id": "47bb20d2-6ff5-4eb9-91d1-e344b3d9b57a",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0.123",
+        "rarity_mode": "A",
+        "file": "file-1691466023084-828787129.pdf",
+        "preview": null,
+        "createdAt": "2023-08-08T03:40:23.185Z",
+        "updatedAt": "2023-08-08T03:40:23.185Z"
+      },
+      {
+        "id": "48992e8f-e1aa-48db-bc0c-5236e3c9f984",
+        "object_name": "Yoyo Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "5",
+        "rarity_mode": "A",
+        "file": null,
+        "preview": null,
+        "createdAt": "2023-08-03T07:50:38.930Z",
+        "updatedAt": "2023-08-03T07:50:38.930Z"
+      },
+      {
+        "id": "67e2b4b3-79f8-42c0-ad4a-46edb9f2900b",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691483828454-717480377.obj",
+        "preview": "preview-1691483828455-794689262.jpg",
+        "createdAt": "2023-08-08T08:37:08.469Z",
+        "updatedAt": "2023-08-08T08:37:08.469Z"
+      },
+      {
+        "id": "6c10c20a-b1ff-4734-a4e1-4f37cb9eb863",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691471033567-703260633.obj",
+        "preview": "preview-1691471033577-794124514.jpeg",
+        "createdAt": "2023-08-08T05:03:53.718Z",
+        "updatedAt": "2023-08-08T05:03:53.718Z"
+      },
+      {
+        "id": "759c09eb-4443-46cd-8566-e279a6198a77",
+        "object_name": "Yoyo Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "5",
+        "rarity_mode": "A",
+        "file": null,
+        "preview": null,
+        "createdAt": "2023-08-03T08:35:08.583Z",
+        "updatedAt": "2023-08-03T08:35:08.583Z"
+      },
+      {
+        "id": "8944b510-8c6a-4d07-8505-a8df2b6714e0",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691483570830-73344811.obj",
+        "preview": "preview-1691483570920-691441063.jpg",
+        "createdAt": "2023-08-08T08:32:50.960Z",
+        "updatedAt": "2023-08-08T08:32:50.960Z"
+      },
+      {
+        "id": "96e77aff-859a-4673-ae23-136ae76a8f87",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0.4",
+        "rarity_mode": "A",
+        "file": "file-1691466058358-428662390.pdf",
+        "preview": null,
+        "createdAt": "2023-08-08T03:40:58.367Z",
+        "updatedAt": "2023-08-08T03:40:58.367Z"
+      },
+      {
+        "id": "a1082361-8c3b-4bbc-8623-16d8ff9d316f",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691483635851-637340817.obj",
+        "preview": "preview-1691483635861-308507012.jpg",
+        "createdAt": "2023-08-08T08:33:56.621Z",
+        "updatedAt": "2023-08-08T08:33:56.621Z"
+      },
+      {
+        "id": "dca0f237-3874-43d9-a5d8-797f8ac7518b",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691481372834-607280083.obj",
+        "preview": "preview-1691481374679-586451028.jpg",
+        "createdAt": "2023-08-08T07:56:17.947Z",
+        "updatedAt": "2023-08-08T07:56:17.947Z"
+      },
+      {
+        "id": "eae07454-b80c-4c08-aacd-15f2c6545eef",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0",
+        "rarity_mode": "A",
+        "file": "file-1691465914880-34607250.pdf",
+        "preview": null,
+        "createdAt": "2023-08-08T03:38:35.004Z",
+        "updatedAt": "2023-08-08T03:38:35.004Z"
+      },
+      {
+        "id": "efafea28-e9a6-43d6-8de6-8094117e34ed",
+        "object_name": "Bonge Object",
+        "altitude_mode": "groundRelative",
+        "altitude": 0,
+        "movement_smoothing": "0.8",
+        "rarity_mode": "A",
+        "file": "file-1691466082382-939788008.pdf",
+        "preview": null,
+        "createdAt": "2023-08-08T03:41:22.514Z",
+        "updatedAt": "2023-08-08T03:41:22.514Z"
+      }
+    ],
+    "pagination": {
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalRecords": 14
+    }
+  },
+  "interfaceUniqId": "498c72a0-507f-49f8-b398-aff915c18a90",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "8834c7aa-9c8c-4965-a029-ed1183ab8e3b",
+  "format": "json"
+}

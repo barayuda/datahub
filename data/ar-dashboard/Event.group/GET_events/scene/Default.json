@@ -1,0 +1,96 @@
+{
+  "sceneName": "Default",
+  "data": {
+    "statusCode": 200,
+    "error": false,
+    "message": "findAll",
+    "data": [
+      {
+        "id": "22f4b878-ee5d-4ec2-96fc-3e1d7f727771",
+        "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "event_name": "Transmart Festival",
+        "event_start_time": "2023-08-03T00:51:19.654Z",
+        "event_end_time": "2023-08-02T08:23:51.803Z",
+        "event_location": "Menara Bank Mega, Tendean",
+        "event_description": "Event penyelenggaraan Allo Festival",
+        "event_range": 50,
+        "event_longitude": "106.82958731406251",
+        "event_latitude": "-6.2416599858412445",
+        "status": 0,
+        "createdAt": "2023-08-03T04:55:58.502Z",
+        "updatedAt": "2023-08-03T04:55:58.502Z"
+      },
+      {
+        "id": "52c7dcdd-15c5-4169-a445-9c4e2c0fdf43",
+        "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "event_name": "Allo Festival",
+        "event_start_time": "2023-08-03T00:51:19.654Z",
+        "event_end_time": "2023-08-02T08:23:51.803Z",
+        "event_location": "Menara Bank Mega, Tendean",
+        "event_description": "Event penyelenggaraan Allo Festival",
+        "event_range": 50,
+        "event_longitude": "106.82958731406251",
+        "event_latitude": "-6.2416599858412445",
+        "status": 0,
+        "createdAt": "2023-08-08T09:00:59.254Z",
+        "updatedAt": "2023-08-08T09:00:59.254Z"
+      },
+      {
+        "id": "61ea051b-6da5-4bce-95a9-dc88679c149d",
+        "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "event_name": "Mega Festival",
+        "event_start_time": "2023-08-03T00:51:19.654Z",
+        "event_end_time": "2023-08-02T08:23:51.803Z",
+        "event_location": "Menara Bank Mega, Tendean",
+        "event_description": "Event penyelenggaraan Allo Festival",
+        "event_range": 50,
+        "event_longitude": "106.82864317656254",
+        "event_latitude": "-6.2406574525867695",
+        "status": 0,
+        "createdAt": "2023-08-03T04:52:30.604Z",
+        "updatedAt": "2023-08-03T04:52:30.604Z"
+      },
+      {
+        "id": "6c07d124-ec7c-4b5a-8570-873fb3c4a382",
+        "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "event_name": "Allo Festival",
+        "event_start_time": "2023-08-03T00:51:19.654Z",
+        "event_end_time": "2023-08-02T08:23:51.803Z",
+        "event_location": "Menara Bank Mega, Tendean",
+        "event_description": "Event penyelenggaraan Allo Festival",
+        "event_range": 50,
+        "event_longitude": "106.83121809701703",
+        "event_latitude": "-6.240998740718561",
+        "status": 0,
+        "createdAt": "2023-08-03T04:49:52.478Z",
+        "updatedAt": "2023-08-03T04:49:52.478Z"
+      },
+      {
+        "id": "7eafe8cf-218c-4a6b-854d-025694c7ed47",
+        "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+        "event_name": "Allo Festival",
+        "event_start_time": "2023-08-03T00:51:19.654Z",
+        "event_end_time": "2023-08-02T08:23:51.803Z",
+        "event_location": "Menara Bank Mega, Tendean",
+        "event_description": "Event penyelenggaraan Allo Festival",
+        "event_range": 50,
+        "event_longitude": "106.8314765588978",
+        "event_latitude": "-6.242623881565927",
+        "status": 0,
+        "createdAt": "2023-08-08T09:04:13.144Z",
+        "updatedAt": "2023-08-08T09:04:13.144Z"
+      }
+    ],
+    "pagination": {
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalRecords": 5
+    }
+  },
+  "interfaceUniqId": "de1f2fa7-ce82-46cd-ae5c-19755f9f7ed5",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "f6fdb40e-f678-4447-9cb0-4b176c125e78",
+  "format": "json"
+}

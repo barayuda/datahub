@@ -1,0 +1,13 @@
+{
+  "protocol": "http",
+  "pathname": "events/:id",
+  "method": "GET",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Get Event By ID",
+  "currentScene": "7eafe8cf-218c-4a6b-854d-025694c7ed47",
+  "proxyConfig": {
+    "enabled": false
+  },
+  "uniqId": "26c61748-9044-439b-a49c-f3e3b294b6ba",
+  "groupUniqId": "3d956b49-89e4-4c67-8e21-d421e64c90a4"
+}

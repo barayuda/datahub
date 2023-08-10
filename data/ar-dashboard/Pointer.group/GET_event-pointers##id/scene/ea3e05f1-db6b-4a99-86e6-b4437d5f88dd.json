@@ -1,0 +1,27 @@
+{
+  "sceneName": "ea3e05f1-db6b-4a99-86e6-b4437d5f88dd",
+  "data": {
+    "status": "success",
+    "statusCode": 200,
+    "message": "findOne",
+    "data": {
+      "id": "ea3e05f1-db6b-4a99-86e6-b4437d5f88dd",
+      "object_id": "2995c68b-9f6d-4d34-a8cd-f5ea8e657cdf",
+      "event_id": "6c07d124-ec7c-4b5a-8570-873fb3c4a382",
+      "maximum_user": 0,
+      "type": "point",
+      "point": 2000,
+      "counting": 0,
+      "longitude": "A",
+      "latitude": "A",
+      "createdAt": "2023-08-03T09:20:11.901Z",
+      "updatedAt": "2023-08-03T09:20:11.901Z"
+    }
+  },
+  "interfaceUniqId": "1e1c266c-31a3-4395-84f2-d12f20093d18",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "1adb652a-d767-40e4-a030-aab95eac6390",
+  "format": "json"
+}

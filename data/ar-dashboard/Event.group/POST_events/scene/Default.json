@@ -1,0 +1,31 @@
+{
+  "sceneName": "Default",
+  "data": {
+    "statusCode": 201,
+    "error": false,
+    "message": "created",
+    "data": {
+      "id": "82c30585-eb8b-4398-80d9-4bcb3c24ee1e",
+      "object_id": "47bb20d2-6ff5-4eb9-91d1-e344b3d9b57a",
+      "event_name": "Allo Bara Test",
+      "event_start_time": "2023-08-14T00:51:19.654Z",
+      "event_end_time": "2023-08-30T08:23:51.803Z",
+      "event_location": "Halte Tendean",
+      "event_description": "Event penyelenggaraan kerjasama TransJakarta x Allo Bank",
+      "event_range": 50,
+      "event_longitude": "106.82958731406251",
+      "event_latitude": "-6.2416599858412445",
+      "status": 0,
+      "createdAt": "2023-08-09T07:28:33.540Z",
+      "updatedAt": "2023-08-09T07:28:33.540Z"
+    }
+  },
+  "interfaceUniqId": "719bdbc8-4037-4f93-9f03-25397d4c11fa",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "6ef3a29e-048c-4321-869d-2707bfa473c3",
+  "format": "json"
+}

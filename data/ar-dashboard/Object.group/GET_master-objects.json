@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "master-objects",
+  "method": "GET",
+  "projectUniqId": "2e34ebe2-122d-4213-8fed-baea667ec407",
+  "description": "Master Objects",
+  "currentScene": "GET_ALL",
+  "proxyConfig": {},
+  "uniqId": "498c72a0-507f-49f8-b398-aff915c18a90",
+  "groupUniqId": "9a4c45c3-bae3-4ef0-8115-c1fe982703a2"
+}
