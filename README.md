@@ -1,6 +1,6 @@
 # DATAHUB
 
-Mock API Decentralized with React 16, Webpack 4, Macaca Datahub, and MUI 4 (project for personal used)
+Mock API Decentralized with React 16, Webpack 4, macaca-datahub, and MUI 4 (project for personal used)
 
 ---
 
