@@ -1,6 +1,6 @@
 # DATAHUB
 
-Mock API Decentralized with React 16, Webpack 4, macaca-datahub, and MUI 4 (project for personal used)
+Personal Mock API Decentralized with React 16, Webpack 4, macaca-datahub, and MUI 4 (project for personal used)
 
 ---
 
@@ -10,4 +10,5 @@ Mock API Decentralized with React 16, Webpack 4, macaca-datahub, and MUI 4 (proj
 
 ![Foamtree](screenshot-2.png)
 
-## [MIT](https://github.com/barayuda/datahub/blob/master/LICENSE)
+## License
+[MIT](https://github.com/barayuda/datahub/blob/master/LICENSE)
